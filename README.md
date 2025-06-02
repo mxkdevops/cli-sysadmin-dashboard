@@ -14,8 +14,15 @@ complete terminal-based Python dashboard script that:
  ✅Simple menu-driven CLI
 
 
-
+### How to Use
 ```bash
 
+Make it executable (Linux/macOS):
+
+chmod +x terminal_dashboard.py
+
+Run it:
+
+python3 terminal_dashboard.py
 
 ```
