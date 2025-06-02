@@ -16,10 +16,11 @@ complete terminal-based Python dashboard script that:
 
 ### How to Use
 ```bash
-
+sudo nano file.py
+Save : Ctrl +o , Enter , Ctrl+x
 Make it executable (Linux/macOS):
 
-chmod +x terminal_dashboard.py
+sudo chmod +x terminal_dashboard.py
 
 Run it:
 
